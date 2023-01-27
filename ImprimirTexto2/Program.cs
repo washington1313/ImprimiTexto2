@@ -12,17 +12,18 @@ namespace ImprimirTexto2
             string nomeEntrada = Console.ReadLine();
             Console.Clear();
 
-            nomeFInal = menuFinal(nomeEntrada);
+            nomeFInal = ImprimindoMenuFinal(nomeEntrada);
             Console.WriteLine(nomeFInal);
 
             Console.ReadKey();
         }
 
-        static string menuFinal (string nome)
+        static string ImprimindoMenuFinal (string nome)
         {
-            string texto = "########## MENU ############\n"+
-                                       nome+ "\n"
-+                            "############################";
+            string texto = "########## MENU ############\n" +
+                                       nome + "\n" + 
+                          "############################";
+
 
             return texto;
         }

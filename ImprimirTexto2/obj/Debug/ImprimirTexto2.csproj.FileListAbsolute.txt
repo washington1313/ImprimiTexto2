@@ -6,3 +6,11 @@ C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirTexto2\Imprimi
 C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.csproj.CoreCompileInputs.cache
 C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.exe
 C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimirTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\bin\Debug\ImprimirTexto2.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\bin\Debug\ImprimirTexto2.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\bin\Debug\ImprimirTexto2.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\ImprimiTexto2\ImprimirTexto2\obj\Debug\ImprimirTexto2.pdb
